@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+    .align-center {
+        @apply w-full max-w-[1232px] mx-auto;
+    }
+}
